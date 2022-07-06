@@ -1,0 +1,25 @@
+{
+  "products": [
+  {
+    "img": "cart1.png",
+    "name": "knife",
+    "price": "990",
+    "id": "1",
+    "quantity": "2"
+  },
+    {
+    "img": "cart2.png",
+    "name": "backpack",
+    "price": "5500",
+    "id": "2",
+    "quantity": "1"
+    },
+    {
+    "img": "cart3.png",
+    "name": "pen",
+    "price": "50450",
+    "id": "3",
+    "quantity": "1"
+    }
+]
+}

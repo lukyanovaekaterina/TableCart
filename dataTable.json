@@ -1,0 +1,19 @@
+{
+  "products": [
+  {
+    "img": "cart1.png",
+    "name": "knife",
+    "price": "990"
+  },
+    {
+    "img": "cart2.png",
+    "name": "backpack",
+    "price": "5500"
+    },
+    {
+    "img": "cart3.png",
+    "name": "pen",
+    "price": "50450"
+    }
+]
+}
