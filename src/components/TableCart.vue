@@ -42,6 +42,7 @@ export default {
       result = result.reduce(function (sum, el) {
         return sum + el;
       });
+      //не могу понять по какой причине не могу получить данные с http://localhost:3000/products
 
       return result;
     },
